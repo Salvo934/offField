@@ -77,7 +77,7 @@ export function SiteHeader(): JSX.Element {
                 off<span className="text-blue-400">Field.</span>
               </span>
               <span className="text-[9px] font-semibold uppercase tracking-[0.18em] text-zinc-500 transition group-hover:text-zinc-400 sm:text-[10px] sm:tracking-[0.22em]">
-                Web per atleti
+                Siti Web per atleti
               </span>
             </span>
           </a>
